@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+:root{
+	
+		background-color:rgb(135,206,235);
+	
+:first-child{
+	background-color:rgb(0,0,0);
+	color:rgb(255,255,255);
+	font-size:22px;
+
+
+		:nth-child{
+			color:rgb(0,0,0);
+			
+				:last-child{
+			color:rgb(255,0,0);
+		}
+	}
+			}
+		}
